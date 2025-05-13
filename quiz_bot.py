@@ -1,57 +1,49 @@
-
 import json
 import os
 from telegram import Update
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
+from telegram.ext import Updater, CommandHandler, PollAnswerHandler, CallbackContext
+from telegram import Poll
 
-# Load MCQs
+# Load MCQs from JSON
 with open("mcqs.json", "r") as f:
     mcqs = json.load(f)
 
-user_data = {}
+user_state = {}
 
 def start(update: Update, context: CallbackContext):
     user_id = update.effective_user.id
-    user_data[user_id] = {"index": 0, "score": 0}
-    send_question(update, context)
+    user_state[user_id] = {"index": 0, "score": 0}
+    send_poll(update.effective_chat.id, context, user_id)
 
-def send_question(update: Update, context: CallbackContext):
-    user_id = update.effective_user.id
-    index = user_data[user_id]["index"]
-    if index < len(mcqs):
-        q = mcqs[index]
-        options = "\n".join(q["options"])
-        context.bot.send_message(chat_id=update.effective_chat.id,
-                                 text=f"Q{index+1}: {q['question']}\n\n{options}\n\nReply with A/B/C/D")
+def send_poll(chat_id, context, user_id):
+    idx = user_state[user_id]["index"]
+    if idx < len(mcqs):
+        q = mcqs[idx]
+        correct_option = ord(q["answer"].upper()) - ord('A')
+        context.bot.send_poll(
+            chat_id=chat_id,
+            question=f"Q{idx+1}: {q['question']}",
+            options=[opt[3:].strip() for opt in q["options"]],
+            type=Poll.QUIZ,
+            correct_option_id=correct_option,
+            is_anonymous=False
+        )
     else:
-        score = user_data[user_id]["score"]
-        context.bot.send_message(chat_id=update.effective_chat.id,
-                                 text=f"🎉 Quiz finished! Your score: {score}/{len(mcqs)}")
+        context.bot.send_message(chat_id=chat_id,
+                                 text=f"🎉 Quiz complete! You scored {user_state[user_id]['score']}/{len(mcqs)}")
 
-def handle_answer(update: Update, context: CallbackContext):
+def handle_poll_answer(update: Update, context: CallbackContext):
     user_id = update.effective_user.id
-    if user_id not in user_data:
-        context.bot.send_message(chat_id=update.effective_chat.id,
-                                 text="Please type /start to begin the quiz.")
-        return
+    poll_answer = update.poll_answer
+    selected = poll_answer.option_ids[0]
+    idx = user_state[user_id]["index"]
+    correct = ord(mcqs[idx]["answer"].upper()) - ord('A')
 
-    answer = update.message.text.strip().upper()
-    if answer not in ['A', 'B', 'C', 'D']:
-        context.bot.send_message(chat_id=update.effective_chat.id,
-                                 text="Please reply with A, B, C or D.")
-        return
+    if selected == correct:
+        user_state[user_id]["score"] += 1
 
-    index = user_data[user_id]["index"]
-    correct_answer = mcqs[index]["answer"]
-    if answer == correct_answer:
-        user_data[user_id]["score"] += 1
-        reply = "✅ Correct!"
-    else:
-        reply = f"❌ Incorrect. Correct answer: {correct_answer}"
-
-    context.bot.send_message(chat_id=update.effective_chat.id, text=reply)
-    user_data[user_id]["index"] += 1
-    send_question(update, context)
+    user_state[user_id]["index"] += 1
+    send_poll(poll_answer.user.id, context, user_id)
 
 def main():
     TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "7453734359:AAEeBffcPyw_mvi0qgrqNo8gEj5gfw7sNmw")
@@ -59,10 +51,11 @@ def main():
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start))
-    dp.add_handler(MessageHandler(Filters.text & ~Filters.command, handle_answer))
+    dp.add_handler(PollAnswerHandler(handle_poll_answer))
 
     updater.start_polling()
     updater.idle()
 
 if __name__ == '__main__':
     main()
+
