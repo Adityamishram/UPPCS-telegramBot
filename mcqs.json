@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Which date is celebrated as Global Family Day?",
+        "options": [
+            "A) 1 January",
+            "B) 3 January",
+            "C) 4 January",
+            "D) 6 January"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Who became the youngest world chess champion in 2024?",
+        "options": [
+            "A) Viswanathan Anand",
+            "B) R Vaishali",
+            "C) D Gukesh",
+            "D) Pravin Kumar"
+        ],
+        "answer": "C"
+    }
+]
