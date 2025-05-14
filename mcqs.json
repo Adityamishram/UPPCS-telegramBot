@@ -1,0 +1,6002 @@
+[
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q1]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q2]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q3]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 25 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q4]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 12 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q5]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q6]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q7]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q8]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q9]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q10]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q11]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 1 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q12]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q13]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q14]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q15]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q16]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q17]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q18]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q19]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q20]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q21]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q22]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q23]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) R Vaishali",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q24]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q25]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q26]",
+    "options": [
+      "A) UNDP",
+      "B) NITI Aayog",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q27]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q28]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) Ministry of Finance",
+      "C) NITI Aayog",
+      "D) UNDP"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q29]",
+    "options": [
+      "A) UNDP",
+      "B) NITI Aayog",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q30]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q31]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) NITI Aayog",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q32]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q33]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q34]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q35]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Finance",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q36]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q37]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q38]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q39]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 5th",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q40]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q41]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q42]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q43]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q44]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q45]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 40th",
+      "D) 5th"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q46]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q47]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q48]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q49]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q50]",
+    "options": [
+      "A) DigiPath",
+      "B) Sakhi Suraksha",
+      "C) JobX",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q51]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q52]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q53]",
+    "options": [
+      "A) DigiPath",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q54]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q55]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q56]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q57]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q58]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q59]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q60]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q61]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q62]",
+    "options": [
+      "A) 15 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q63]",
+    "options": [
+      "A) 1 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q64]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q65]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 15 January",
+      "D) 25 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q66]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q67]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q68]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q69]",
+    "options": [
+      "A) 15 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q70]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q71]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q72]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q73]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q74]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q75]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q76]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q77]",
+    "options": [
+      "A) India",
+      "B) Virat Kohli",
+      "C) M.T. Vasudevan Nair",
+      "D) R Vaishali"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q78]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q79]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) India",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q80]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q81]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q82]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q83]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q84]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q85]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Finance",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q86]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q87]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q88]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) NITI Aayog",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q89]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q90]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) UNDP"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q91]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) NITI Aayog"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q92]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q93]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q94]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q95]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) Ministry of Finance",
+      "C) NITI Aayog",
+      "D) UNDP"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q96]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q97]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q98]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q99]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q100]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q101]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q102]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q103]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q104]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 5th",
+      "D) 40th"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q105]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q106]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q107]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q108]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 5th",
+      "D) 40th"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q109]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q110]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q111]",
+    "options": [
+      "A) DigiPath",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) JobX"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q112]",
+    "options": [
+      "A) JobX",
+      "B) DigiPath",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q113]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q114]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q115]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q116]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q117]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q118]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q119]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q120]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q121]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q122]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q123]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q124]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q125]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q126]",
+    "options": [
+      "A) 15 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q127]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q128]",
+    "options": [
+      "A) 15 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q129]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q130]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q131]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 25 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q132]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q133]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q134]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) India",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q135]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q136]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q137]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q138]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q139]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q140]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q141]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q142]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q143]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q144]",
+    "options": [
+      "A) India",
+      "B) Virat Kohli",
+      "C) R Vaishali",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q145]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) Ministry of Finance",
+      "C) UNDP",
+      "D) NITI Aayog"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q146]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) NITI Aayog"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q147]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q148]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Finance",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q149]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q150]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q151]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q152]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q153]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q154]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Finance",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q155]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q156]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q157]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q158]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q159]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q160]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q161]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q162]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q163]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q164]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q165]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q166]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q167]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q168]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q169]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q170]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q171]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q172]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q173]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q174]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q175]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) DigiPath",
+      "C) Grameen Telehealth",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q176]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q177]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q178]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q179]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q180]",
+    "options": [
+      "A) DigiPath",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) JobX"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q181]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 15 January",
+      "D) 1 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q182]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 15 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q183]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q184]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q185]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q186]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 12 January",
+      "D) 15 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q187]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q188]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 25 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q189]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q190]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q191]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 15 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q192]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q193]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q194]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q195]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q196]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q197]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q198]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) R Vaishali",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q199]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) India",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q200]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q201]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) Virat Kohli"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q202]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q203]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q204]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) India",
+      "C) R Vaishali",
+      "D) Virat Kohli"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q205]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q206]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q207]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q208]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q209]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q210]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q211]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q212]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q213]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q214]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q215]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q216]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) NITI Aayog"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q217]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q218]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q219]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q220]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q221]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q222]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q223]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q224]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q225]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q226]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q227]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q228]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q229]",
+    "options": [
+      "A) JobX",
+      "B) DigiPath",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q230]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q231]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q232]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q233]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q234]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q235]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q236]",
+    "options": [
+      "A) DigiPath",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) JobX"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q237]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q238]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q239]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q240]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q241]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 12 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q242]",
+    "options": [
+      "A) 15 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q243]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q244]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q245]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q246]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q247]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 15 January",
+      "D) 1 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q248]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q249]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q250]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 25 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q251]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q252]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q253]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q254]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q255]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q256]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) R Vaishali",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q257]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) Virat Kohli"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q258]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q259]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) Virat Kohli"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q260]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q261]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q262]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q263]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q264]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q265]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) Ministry of Finance",
+      "D) UNDP"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q266]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q267]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) UNDP"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q268]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q269]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) UNDP"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q270]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q271]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) Ministry of Finance",
+      "C) NITI Aayog",
+      "D) UNDP"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q272]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Finance",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q273]",
+    "options": [
+      "A) UNDP",
+      "B) NITI Aayog",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q274]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q275]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q276]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q277]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 5th",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q278]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q279]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 40th",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q280]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q281]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q282]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q283]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q284]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q285]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 5th",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q286]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q287]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q288]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q289]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q290]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q291]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q292]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q293]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q294]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q295]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q296]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q297]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q298]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q299]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q300]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q301]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q302]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q303]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q304]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q305]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q306]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q307]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q308]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q309]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q310]",
+    "options": [
+      "A) 1 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q311]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q312]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q313]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q314]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q315]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q316]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q317]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q318]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q319]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q320]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q321]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q322]",
+    "options": [
+      "A) India",
+      "B) Virat Kohli",
+      "C) M.T. Vasudevan Nair",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q323]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q324]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) R Vaishali"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q325]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) NITI Aayog",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q326]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q327]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q328]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) NITI Aayog",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q329]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q330]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q331]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q332]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q333]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q334]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q335]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) Ministry of Finance",
+      "D) UNDP"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q336]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q337]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q338]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q339]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q340]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q341]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q342]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q343]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q344]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q345]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q346]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q347]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q348]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q349]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q350]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q351]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q352]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q353]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q354]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q355]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q356]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q357]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q358]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q359]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q360]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q361]",
+    "options": [
+      "A) 1 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q362]",
+    "options": [
+      "A) 1 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q363]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q364]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q365]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q366]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q367]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q368]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q369]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q370]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q371]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q372]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q373]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q374]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q375]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q376]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q377]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q378]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q379]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q380]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q381]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q382]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) India",
+      "C) R Vaishali",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q383]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q384]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q385]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q386]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q387]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) NITI Aayog"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q388]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q389]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q390]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q391]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q392]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q393]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q394]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) NITI Aayog"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q395]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q396]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) UNDP"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q397]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q398]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q399]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 40th",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q400]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 40th",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q401]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 40th",
+      "D) 5th"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q402]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q403]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q404]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q405]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q406]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 5th",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q407]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q408]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q409]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q410]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q411]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q412]",
+    "options": [
+      "A) JobX",
+      "B) DigiPath",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q413]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q414]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q415]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q416]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q417]",
+    "options": [
+      "A) DigiPath",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q418]",
+    "options": [
+      "A) JobX",
+      "B) DigiPath",
+      "C) Sakhi Suraksha",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q419]",
+    "options": [
+      "A) DigiPath",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) JobX"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q420]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q421]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q422]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q423]",
+    "options": [
+      "A) 15 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q424]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q425]",
+    "options": [
+      "A) 15 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q426]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q427]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q428]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q429]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 12 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q430]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q431]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q432]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q433]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q434]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) India",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q435]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) India",
+      "C) R Vaishali",
+      "D) Virat Kohli"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q436]",
+    "options": [
+      "A) India",
+      "B) Virat Kohli",
+      "C) R Vaishali",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q437]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q438]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q439]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) R Vaishali",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q440]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q441]",
+    "options": [
+      "A) Virat Kohli",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q442]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q443]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q444]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) India",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q445]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q446]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) UNDP"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q447]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) UNDP"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q448]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q449]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q450]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q451]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q452]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q453]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q454]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q455]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) NITI Aayog",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q456]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) UNDP"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q457]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q458]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q459]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q460]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q461]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q462]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q463]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q464]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q465]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q466]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q467]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q468]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q469]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q470]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q471]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q472]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q473]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) DigiPath",
+      "C) Grameen Telehealth",
+      "D) JobX"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q474]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q475]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) DigiPath",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q476]",
+    "options": [
+      "A) JobX",
+      "B) DigiPath",
+      "C) Sakhi Suraksha",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q477]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q478]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q479]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q480]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q481]",
+    "options": [
+      "A) 1 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q482]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 15 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q483]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 25 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q484]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q485]",
+    "options": [
+      "A) 1 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q486]",
+    "options": [
+      "A) 25 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q487]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q488]",
+    "options": [
+      "A) 15 January",
+      "B) 25 January",
+      "C) 12 January",
+      "D) 1 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q489]",
+    "options": [
+      "A) 1 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q490]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 1 January",
+      "D) 25 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q491]",
+    "options": [
+      "A) 15 January",
+      "B) 12 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q492]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q493]",
+    "options": [
+      "A) Virat Kohli",
+      "B) India",
+      "C) R Vaishali",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q494]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q495]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q496]",
+    "options": [
+      "A) R Vaishali",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q497]",
+    "options": [
+      "A) R Vaishali",
+      "B) India",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q498]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q499]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q500]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) R Vaishali",
+      "D) Virat Kohli"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q501]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q502]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) India",
+      "C) R Vaishali",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q503]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q504]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) Virat Kohli"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q505]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) Ministry of Finance",
+      "C) UNDP",
+      "D) NITI Aayog"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q506]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) UNDP"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q507]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q508]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q509]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q510]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q511]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q512]",
+    "options": [
+      "A) UNDP",
+      "B) NITI Aayog",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q513]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q514]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q515]",
+    "options": [
+      "A) UNDP",
+      "B) NITI Aayog",
+      "C) Ministry of Finance",
+      "D) Ministry of Defence"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q516]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q517]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q518]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q519]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q520]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q521]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q522]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q523]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q524]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q525]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q526]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q527]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q528]",
+    "options": [
+      "A) 3rd",
+      "B) 3rd",
+      "C) 5th",
+      "D) 40th"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q529]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q530]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q531]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) JobX"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q532]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q533]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q534]",
+    "options": [
+      "A) JobX",
+      "B) Grameen Telehealth",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q535]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q536]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q537]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q538]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) JobX"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q539]",
+    "options": [
+      "A) DigiPath",
+      "B) JobX",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q540]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q541]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q542]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q543]",
+    "options": [
+      "A) 1 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q544]",
+    "options": [
+      "A) 1 January",
+      "B) 15 January",
+      "C) 12 January",
+      "D) 25 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q545]",
+    "options": [
+      "A) 12 January",
+      "B) 25 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q546]",
+    "options": [
+      "A) 25 January",
+      "B) 1 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q547]",
+    "options": [
+      "A) 15 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 12 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q548]",
+    "options": [
+      "A) 12 January",
+      "B) 15 January",
+      "C) 25 January",
+      "D) 1 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which day is celebrated as Global Family Day? [Q549]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which day is celebrated as National Youth Day? [Q550]",
+    "options": [
+      "A) 1 January",
+      "B) 25 January",
+      "C) 15 January",
+      "D) 12 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Army Day? [Q551]",
+    "options": [
+      "A) 25 January",
+      "B) 12 January",
+      "C) 1 January",
+      "D) 15 January"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which day is celebrated as Tourism Day? [Q552]",
+    "options": [
+      "A) 12 January",
+      "B) 1 January",
+      "C) 25 January",
+      "D) 15 January"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q553]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q554]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q555]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) India",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q556]",
+    "options": [
+      "A) India",
+      "B) Virat Kohli",
+      "C) R Vaishali",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q557]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q558]",
+    "options": [
+      "A) R Vaishali",
+      "B) Virat Kohli",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q559]",
+    "options": [
+      "A) India",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) M.T. Vasudevan Nair"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q560]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) Virat Kohli",
+      "C) India",
+      "D) R Vaishali"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the ICC Cricketer of the Year 2024? [Q561]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Women's Chess World Title 2024? [Q562]",
+    "options": [
+      "A) India",
+      "B) M.T. Vasudevan Nair",
+      "C) Virat Kohli",
+      "D) R Vaishali"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Who won the Padma Vibhushan 2025 (Literature)? [Q563]",
+    "options": [
+      "A) Virat Kohli",
+      "B) R Vaishali",
+      "C) M.T. Vasudevan Nair",
+      "D) India"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Who won the Edelman Trust Award 2025? [Q564]",
+    "options": [
+      "A) M.T. Vasudevan Nair",
+      "B) R Vaishali",
+      "C) Virat Kohli",
+      "D) India"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q565]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Defence",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q566]",
+    "options": [
+      "A) UNDP",
+      "B) Ministry of Finance",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q567]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) NITI Aayog"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q568]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q569]",
+    "options": [
+      "A) NITI Aayog",
+      "B) UNDP",
+      "C) Ministry of Defence",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q570]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) UNDP",
+      "C) NITI Aayog",
+      "D) Ministry of Finance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q571]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) Ministry of Finance",
+      "D) UNDP"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q572]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which organization released the Digital India Report 2025? [Q573]",
+    "options": [
+      "A) Ministry of Defence",
+      "B) Ministry of Finance",
+      "C) UNDP",
+      "D) NITI Aayog"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization released the Defence Budget Analysis? [Q574]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which organization released the Annual Economic Survey? [Q575]",
+    "options": [
+      "A) Ministry of Finance",
+      "B) NITI Aayog",
+      "C) UNDP",
+      "D) Ministry of Defence"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organization released the Sustainable Development Index? [Q576]",
+    "options": [
+      "A) NITI Aayog",
+      "B) Ministry of Defence",
+      "C) UNDP",
+      "D) Ministry of Finance"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q577]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q578]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q579]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q580]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q581]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q582]",
+    "options": [
+      "A) 5th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 40th"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q583]",
+    "options": [
+      "A) 3rd",
+      "B) 40th",
+      "C) 5th",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q584]",
+    "options": [
+      "A) 3rd",
+      "B) 5th",
+      "C) 40th",
+      "D) 3rd"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "India's rank in the Global Innovation Index 2025? [Q585]",
+    "options": [
+      "A) 40th",
+      "B) 3rd",
+      "C) 3rd",
+      "D) 5th"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "India's rank in the Military Expenditure Ranking? [Q586]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Edelman Trust Barometer? [Q587]",
+    "options": [
+      "A) 40th",
+      "B) 5th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "India's rank in the Olympiad Science Ranking? [Q588]",
+    "options": [
+      "A) 5th",
+      "B) 40th",
+      "C) 3rd",
+      "D) 3rd"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q589]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q590]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q591]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q592]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q593]",
+    "options": [
+      "A) Grameen Telehealth",
+      "B) JobX",
+      "C) Sakhi Suraksha",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q594]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) DigiPath"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q595]",
+    "options": [
+      "A) JobX",
+      "B) DigiPath",
+      "C) Grameen Telehealth",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q596]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) DigiPath",
+      "C) JobX",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for women's safety? [Q597]",
+    "options": [
+      "A) DigiPath",
+      "B) Grameen Telehealth",
+      "C) JobX",
+      "D) Sakhi Suraksha"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for employment exchange? [Q598]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which app or platform was launched for e-learning? [Q599]",
+    "options": [
+      "A) JobX",
+      "B) Sakhi Suraksha",
+      "C) Grameen Telehealth",
+      "D) DigiPath"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which app or platform was launched for rural telemedicine? [Q600]",
+    "options": [
+      "A) Sakhi Suraksha",
+      "B) JobX",
+      "C) DigiPath",
+      "D) Grameen Telehealth"
+    ],
+    "answer": "D"
+  }
+]
