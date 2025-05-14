@@ -1,3 +1,4 @@
+
 import json
 import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, Poll
@@ -12,7 +13,7 @@ user_state = {}
 def start(update: Update, context: CallbackContext):
     keyboard = [[InlineKeyboardButton("Start Quiz ✅", callback_data='start_quiz')]]
     reply_markup = InlineKeyboardMarkup(keyboard)
-    update.message.reply_text('Welcome to the UPSC Quiz Bot! Click below to start:', reply_markup=reply_markup)
+    update.message.reply_text('Welcome to the UPPCS Quiz Bot! Click below to start:', reply_markup=reply_markup)
 
 def start_quiz(update: Update, context: CallbackContext):
     query = update.callback_query
